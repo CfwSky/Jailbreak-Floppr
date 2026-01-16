@@ -1,0 +1,49 @@
+{
+  "Sounds": {
+    "Gun Sounds": {
+      "Sniper": "112711904249671",
+      "Shotgun": "75718475491931",
+      "HeliBankExplosion": "78934453860157",
+      "RocketLauncherExplosion": "78934453860157",
+      "MissileExplosion": "78934453860157",
+      "JetMissileLoop": "118564981150434",
+      "RocketLaunchLoop": "118564981150434",
+      "Rifle": "105190530863654",
+      "Revolver": "128729652906944",
+      "PlasmaPistol": "130769697830855",
+      "PlasmaShotgun": "83077442567298",
+      "SwatPistol": "116975709476222",
+      "Pistol": "116975709476222",
+      "Flintlock": "85449205928712",
+      "AK": "105190530863654"
+    },
+    "Car Sounds": {
+      "Jump": "113977695117819",
+      "Barrier": "104824921177178",
+      "Siren": "99299021113860",
+      "Hovercrafts": "105133494802865"
+    },
+    "Miscellaneous Sounds": {
+      "Alert": "92418096462800",
+      "Button Click": "90145800685696",
+      "Item Equip": "123735603851594",
+      "Safe Roll": "121107835279035",
+      "Safe Buy": "127779301353085",
+      "Reward": "103347952458709"
+    }
+  },
+  "Textures": {
+    "Gun Textures": {
+      "Rainbow Sniper": "95928380109222",
+      "Rainbow Shotgun": "101821075117988",
+      "Rainbow RocketLauncher": "81721578745237",
+      "Rainbow Rifle": "76607274275439",
+      "Rainbow Revolver": "128240307026985",
+      "Rainbow PlasmaPistol": "88565896025741",
+      "Rainbow Pistol": "135742977091956",
+      "Rainbow ForceFieldLauncher": "75397186774297",
+      "Rainbow Flintlock": "134028179729287",
+      "Rainbow AK47": "73266504127630"
+    }
+  }
+}
