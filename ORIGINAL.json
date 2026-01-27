@@ -1,49 +1,59 @@
 {
-  "Sounds": {
-    "Gun Sounds": {
-      "Sniper": "16652898664",
-      "Shotgun": "2123415004",
-      "HeliBankExplosion": "55224766",
-      "RocketLauncherExplosion": "2205008239",
-      "MissileExplosion": "11194094568",
-      "JetMissileLoop": "11194096223",
-      "RocketLaunchLoop": "9058734199",
-      "Rifle": "16652900701",
-      "Revolver": "16663714645",
-      "PlasmaPistol": "4752401149",
-      "PlasmaShotgun": "4752401149",
-      "SwatPistol": "16663716300",
-      "Pistol": "2140554034",
-      "Flintlock": "16652899011",
-      "AK": "16652900272"
+  "decals": {
+    "JBGuns": {
+      "Pistol image": "16647913398",
+      "AK47 image": "16647917663",
+      "Shotgun image": "16647919326",
+      "Forcefield Launcher image": "16647912007",
+      "Rocket Launcher image": "16647918515",
+      "Revolver image": "16647917031",
+      "Flintlock image": "16647911211",
+      "Sniper image": "16647920120",
+      "Plasma Pistol image": "16647916237"
     },
-    "Car Sounds": {
-      "Jump": "130019374714708",
-      "Barrier": "7018764077",
-      "Siren": "690529934",
-      "Hovercrafts": "9073629888"
-    },
-    "Miscellaneous Sounds": {
-      "Alert": "700153902",
-      "Button Click": "6105461542",
-      "Item Equip": "690572276",
-      "Safe Roll": "156286438",
-      "Safe Buy": "4977134975",
-      "Reward": "737592495"
+    "Images": {
+      "Radio Icon": "5410892616",
+      "that one poster near bank": "112105558356358",
+      "Background for albums": "5356640963",
+      "Border": "5356642325",
+      "Play Button": "5356642873",
+      "Audio List": "5362830529",
+      "Volume and Bass slider": "5356642728",
+      "Bar for Volume and Bass": "5356642510",
+      "Song ID Entry": "5356643005",
+      "Song Name Background": "5356639824"
     }
   },
-  "Textures": {
-    "Gun Textures": {
-      "Rainbow Sniper": "16647920120",
-      "Rainbow Shotgun": "16647919326",
-      "Rainbow RocketLauncher": "16647918515",
-      "Rainbow Rifle": "16647917663",
-      "Rainbow Revolver": "16647917031",
-      "Rainbow PlasmaPistol": "16647916237",
-      "Rainbow Pistol": "16647913398",
-      "Rainbow ForceFieldLauncher": "16647912007",
-      "Rainbow Flintlock": " 16647911211",
-      "Rainbow AK47": "16647909271"
-    }
+  "mesh": {
+    "volt bike": "7019003083"
+  },
+  "gunsounds": {
+    "Damage Sound": "2837091387",
+    "Sniper Sound": "16652898664",
+    "Flintlock Sound": "16652899011",
+    "Rifle Sound": "16652900701",
+    "Revolver Sound": "16663714645",
+    "Explosion related to c4": "2205008239",
+    "Pistol Sound Swat": "16663716300",
+    "Pistol": "2140554034",
+    "Old Shotgun": "2123415004",
+    "Jet Missile": "11194096223",
+    "Jet Explode": "11194094568",
+    "Missile Shoot": "11194095259",
+    "Bank and Helicopter explosion": "55224766",
+    "Nitro": "9058734199",
+    "Plasma Pistol": "4752401149",
+    "Plasma Shotgun": "17183453324"
+  },
+  "carsounds": {
+    "Orion Low": "99275316180105",
+    "Orion Mid": "107815935867595",
+    "Orion High": "112351641126079",
+    "Polaire Mid": "134132141227017",
+    "Polaire Low": "114377560060455",
+    "Polaire High": "116359081749273",
+    "Polaire sounds": "18730578104",
+    "Polaire Induction": "132884974895700"
   }
 }
+
