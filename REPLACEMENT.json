@@ -53,7 +53,8 @@
     "Polaire Low": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/main/assets/sounds/carsounds/louder.ogg",
     "Polaire High": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/main/assets/sounds/carsounds/louder.ogg",
     "Polaire sounds": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/carsounds/DIE.ogg",
-    "Polaire Induction": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/carsounds/DIE.ogg"
+    "Polaire Induction": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/carsounds/DIE.ogg",
+    "Polaire Jump": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/spring.ogg"
   },
   "Custom Radio Music (Optional)": {
     "La Bas": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/trap_queen.mp3",
@@ -64,4 +65,5 @@
     "Noisestorm - Crab Rave": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/iSpy.mp3"
   }
 }
+
 
