@@ -54,5 +54,13 @@
     "Polaire High": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/main/assets/sounds/carsounds/louder.ogg",
     "Polaire sounds": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/carsounds/DIE.ogg",
     "Polaire Induction": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/carsounds/DIE.ogg"
+  },
+  "Custom Radio Music (Optional)": {
+    "La Bas": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/trap_queen.mp3",
+    "Washing Machine": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/679.mp3",
+    "Marching To Honolulu": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/GOD.mp3",
+    "A Pirate's Life For Me (A)": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/dizzy.mp3",
+    "Stadium Rave (A)": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/black_beatles.mp3",
+    "Noisestorm - Crab Rave": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/iSpy.mp3"
   }
 }
