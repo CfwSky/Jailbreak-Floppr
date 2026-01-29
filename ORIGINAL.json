@@ -51,7 +51,9 @@
     "Bank and Helicopter explosion": "55224766",
     "Nitro": "9058734199",
     "Plasma Pistol": "4752401149",
-    "Plasma Shotgun": "17183453324"
+    "Plasma Shotgun": "17183453324",
+    "Forcefield launcher land": "4058366615",
+    "Forcefield launcher LAUNCH": "1665290210"
   },
   "carsounds": {
     "Orion Low": "99275316180105",
@@ -61,7 +63,15 @@
     "Polaire Low": "114377560060455",
     "Polaire High": "116359081749273",
     "Polaire sounds": "18730578104",
-    "Polaire Induction": "132884974895700"
+    "Polaire Induction": "132884974895700",
+    "Props Knockdown": "7018764077",
+    "Drift": "681227493"
+  },
+  "UI Sounds": {
+    "Safe Roll": "156286438",
+    "Contract/Safe Click": "6105461542",
+    "Safe Buy": "4977134975",
+    "Electric Box/Reward Celebration": "737592495"
   },
   "Custom Radio Music (Optional)": {
     "Crab Rave": "5410086218",
