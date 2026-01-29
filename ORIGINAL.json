@@ -22,6 +22,14 @@
       "Bar for Volume and Bass": "5356642510",
       "Song ID Entry": "5356643005",
       "Song Name Background": "5356639824"
+    },
+    "Skybox": {
+      "SkyboxBk": "9457789056",
+      "SkyboxDn": "9457792251",
+      "SkyboxFt": "9457784308",
+      "SkyboxLf": "9457787935",
+      "SkyboxRt": "9457789800",
+      "SkyboxUp": "9457790985"
     }
   },
   "mesh": {
@@ -53,8 +61,7 @@
     "Polaire Low": "114377560060455",
     "Polaire High": "116359081749273",
     "Polaire sounds": "18730578104",
-    "Polaire Induction": "132884974895700",
-    "Polaire Jump": "130019374714708"
+    "Polaire Induction": "132884974895700"
   },
   "Custom Radio Music (Optional)": {
     "Crab Rave": "5410086218",
@@ -65,5 +72,3 @@
     "Stadium Rave": "1846368080"
   }
 }
-
-
