@@ -2,14 +2,18 @@
   "decals": {
     "JBGuns": {
       "Pistol image": "16647913398",
-      "AK47 image": "16647917663",
+      "AK47 image": "16647909271",
+      "Rifle image": "16647917663",
       "Shotgun image": "16647919326",
       "Forcefield Launcher image": "16647912007",
       "Rocket Launcher image": "16647918515",
       "Revolver image": "16647917031",
       "Flintlock image": "16647911211",
       "Sniper image": "16647920120",
-      "Plasma Pistol image": "16647916237"
+      "Plasma Pistol image": "16647916237",
+      "Donut image": "871077212",
+      "Glider image": "679785902",
+      "C4 image": "6098428553"
     },
     "Images": {
       "Radio Icon": "5410892616",
@@ -21,7 +25,12 @@
       "Volume and Bass slider": "5356642728",
       "Bar for Volume and Bass": "5356642510",
       "Song ID Entry": "5356643005",
-      "Song Name Background": "5356639824"
+      "Song Name Background": "5356639824",
+      "Team Icon": "4912231691",
+      "Money Icon": "4912231216",
+      "Safe Icon": "10313420284",
+      "Garage Icon": "8733342027",
+      "Hotbar Icon": "4876179727"
     },
     "Skybox": {
       "SkyboxBk": "9457789056",
