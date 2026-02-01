@@ -55,8 +55,14 @@
       "Garage Icon": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/Garage.png",
       "Hotbar Icon": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/hotbar.png",
       "Right Sidebar Icons": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/CoolIcon.png"
-    }
-  },
+      },
+      "Gun Store": {
+     "Weapon Owned": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/owned.png",
+      "Selection Off": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/selectoff.png",
+      "Selection On": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/selection.png",
+      "Weapon Background": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/weaponbg.png"
+      }
+    },
   "mesh": {
     "volt bike": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/VOLT8.obj"
   },
