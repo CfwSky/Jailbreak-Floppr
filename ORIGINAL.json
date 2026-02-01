@@ -43,6 +43,12 @@
       "Hotbar Icon": "4876179727",
       "Right Sidebar Icons": "7852334955"
     },
+      "Gun Store": {
+     "Weapon Owned": "5834235796",
+      "Selection Off": "5834230837",
+      "Selection On": "5834230671",
+      "Weapon Background": "5834229115"
+    },
     "Skybox": {
       "SkyboxBk": "9457789056",
       "SkyboxDn": "9457792251",
