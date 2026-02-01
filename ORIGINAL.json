@@ -1,25 +1,29 @@
 {
   "decals": {
     "JBGuns": {
-      "Pistol image": "16647913398",
-      "AK47 image": "16647909271",
-      "Rifle image": "16647917663",
-      "Shotgun image": "16647919326",
-      "Forcefield Launcher image": "16647912007",
-      "Rocket Launcher image": "16647918515",
-      "Revolver image": "16647917031",
-      "Flintlock image": "16647911211",
-      "Sniper image": "16647920120",
-      "Plasma Pistol image": "16647916237",
-      "Plasma Shotgun image": "1720666728",
-      "Handcuffs image": "700374045",
-      "Sword image": "700374040",
-      "Taser image": "880310770",
-      "Road Spikes image": "4572537288",
-      "Uzi image": "16647920802",
-      "Donut image": "871077212",
-      "Glider image": "679785902",
-      "C4 image": "6098428553"
+      "Weapons": {
+        "Pistol image": "16647913398",
+        "AK47 image": "16647909271",
+        "Rifle image": "16647917663",
+        "Shotgun image": "16647919326",
+        "Forcefield Launcher image": "16647912007",
+        "Rocket Launcher image": "16647918515",
+        "Revolver image": "16647917031",
+        "Flintlock image": "16647911211",
+        "Sniper image": "16647920120",
+        "Plasma Pistol image": "16647916237",
+        "Plasma Shotgun image": "1720666728",
+        "Sword image": "700374040",
+        "Taser image": "880310770",
+        "Uzi image": "16647920802"
+      },
+      "Consumables": {
+        "Donut image": "871077212",
+        "Glider image": "679785902",
+        "C4 image": "6098428553",
+        "Road Spikes image": "4572537288",
+        "Handcuffs image": "700374045"
+      }
     },
     "Images": {
       "Radio Icon": "5410892616",
