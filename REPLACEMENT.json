@@ -1,30 +1,36 @@
 {
   "decals": {
     "JBGuns": {
-      "Pistol Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/PistolRainbow.png",
-      "AK47 Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/AKRainbow.png",
-      "Rifle Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/RifleRainbow.png",
-      "Shotgun Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/ShotgunRainbow.png",
-      "Forcefield Launcher Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/ForcefieldLauncherRainbow.png",
-      "Rocket Launcher Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/RocketLauncherRainbow.png",
-      "Revolver Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/RevolverRainbow.png",
-      "Flintlock Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/FlintlockRainbow.png",
-      "Sniper Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/SniperRainbow.png",
-      "Plasma Pistol Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/PlasmaPistolRainbow.png",
-      "Pistol B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Pistol2.png",
-      "AK47 B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/AK2.png",
-      "Rifle B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Rifle2.png",
-      "Shotgun B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Shotgun2.png",
-      "Forcefield Launcher B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/ForcefieldLauncher2.png",
-      "Rocket Launcher B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/RocketLauncher2.png",
-      "Revolver B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/revolver2.png",
-      "Flintlock B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/flintlock2.png",
-      "Sniper RB&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/sniper2.png",
-      "Plasma Pistol B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/PlasmaPistol2.png",
-      "C4": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/C4.png",
-      "Glider": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Glider.png",
-      "Donut": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Donut.png",
-      "Soda": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Juice/star.png"
+      "Rainbow": {
+        "Pistol Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/PistolRainbow.png",
+        "AK47 Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/AKRainbow.png",
+        "Rifle Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/RifleRainbow.png",
+        "Shotgun Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/ShotgunRainbow.png",
+        "Forcefield Launcher Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/ForcefieldLauncherRainbow.png",
+        "Rocket Launcher Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/RocketLauncherRainbow.png",
+        "Revolver Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/RevolverRainbow.png",
+        "Flintlock Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/FlintlockRainbow.png",
+        "Sniper Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/SniperRainbow.png",
+        "Plasma Pistol Rainbow": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Rainbow/PlasmaPistolRainbow.png"
+      },
+      "Black & White": {
+        "Pistol B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Pistol2.png",
+        "AK47 B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/AK2.png",
+        "Rifle B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Rifle2.png",
+        "Shotgun B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Shotgun2.png",
+        "Forcefield Launcher B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/ForcefieldLauncher2.png",
+        "Rocket Launcher B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/RocketLauncher2.png",
+        "Revolver B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/revolver2.png",
+        "Flintlock B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/flintlock2.png",
+        "Sniper RB&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/sniper2.png",
+        "Plasma Pistol B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/PlasmaPistol2.png"
+      },
+      "Consumables": {
+        "C4": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/C4.png",
+        "Glider": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Glider.png",
+        "Donut": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Donut.png",
+        "Soda": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Juice/star.png"
+      }
     },
     "Images": {
       "Radio Icon": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/loreFinalFinal.png",
@@ -85,5 +91,3 @@
     "Noisestorm - Crab Rave": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/Radio/iSpy.mp3"
   }
 }
-
-
