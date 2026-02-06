@@ -56,6 +56,14 @@
       "Hotbar Icon": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/hotbar.png",
       "Right Sidebar Icons": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/CoolIcon.png"
       },
+      "Skybox": {
+     "BK": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_bk.png",
+      "DN": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_dn.png",
+      "FT": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_ft.png",
+      "LF": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_lf.png",
+      "RT": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_rt.png",
+      "UP": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/skybox/sky512_up.png"
+      },
       "Gun Store": {
      "Weapon Owned": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/owned.png",
       "Selection Off": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/selectoff.png",
