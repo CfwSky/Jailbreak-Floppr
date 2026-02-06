@@ -41,7 +41,20 @@
       "Safe Icon": "10313420284",
       "Garage Icon": "8733342027",
       "Hotbar Icon": "4876179727",
-      "Right Sidebar Icons": "7852334955"
+      "Right Sidebar Icons": "7852334955",
+      "Boss UI": "82395363781795"
+    },
+    "Floor/Wall Textures": {
+      "Museum Carpet": "8406584766",
+      "Casino Carpet": "9074584951",
+      "Building Texture 2": "9071495364",
+      "Airport Runway": "4845288389",
+      "Jewelry money": "8159791747",
+      "Tomb Tile": "6837386036",
+      "Tomb tile 2": "6837385734",
+      "Museum Tile": "8406642954",
+      "Tomb Tile 3": "6783604809",
+      "Casino wall": "9112468455"
     },
       "Gun Store": {
      "Weapon Owned": "5834235796",
@@ -50,12 +63,12 @@
       "Weapon Background": "5834229115"
     },
     "Skybox": {
-      "SkyboxBk": "9457789056",
-      "SkyboxDn": "9457792251",
-      "SkyboxFt": "9457784308",
-      "SkyboxLf": "9457787935",
-      "SkyboxRt": "9457789800",
-      "SkyboxUp": "9457790985"
+      "BK": "654808887",
+      "DN": "654809167",
+      "FT": "654808760",
+      "LF": "654809248",
+      "RT": "654809043",
+      "UP": "654808635"
     }
   },
   "mesh": {
