@@ -71,8 +71,25 @@
       "UP": "654808635"
     }
   },
-  "mesh": {
-    "volt bike": "7019003083"
+  "meshes": {
+    "volt bike": "7019003083",
+    "escape bot": "11824514222",
+    "escape bot (REMOVE)": "11824533559",
+    "escape bot1 (REMOVE)": "11824533020",
+    "escape bot2 (REMOVE)": "11824533683",
+    "escape bot3 (REMOVE)": "11824533465",
+    "escape bot4 (REMOVE)": "11824533256",
+    "escape bot5 (REMOVE)": "11824533166",
+    "escape bot6 (REMOVE)": "15295932723",
+    "volt bike shell (REMOVE)": "7008669851",
+    "volt bike handle (REMOVE)": "7008669950",
+    "volt bike wheel (REMOVE)": "7008669637",
+    "Energy Drink": "7192642800",
+    "Sword": "3455816515",
+    "Sword handle (REMOVE)": "3455816980"
+  },
+  "mesh textures": {
+    "Energy Drink Texture (REMOVE)": "7192642954"
   },
   "gunsounds": {
     "Damage Sound": "2837091387",
@@ -94,6 +111,9 @@
     "Plasma Shotgun": "17183453324",
     "Forcefield launcher land": "4058366615",
     "Forcefield launcher LAUNCH": "1665290210"
+  },
+  "Consumable sounds": {
+    "Energy Drink": "7209853095"
   },
   "carsounds": {
     "Orion Low": "99275316180105",
