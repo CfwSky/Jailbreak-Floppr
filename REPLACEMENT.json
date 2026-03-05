@@ -72,7 +72,12 @@
       }
     },
   "mesh": {
-    "volt bike": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/VOLT8.obj"
+    "volt bike slander": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/VOLT8.obj",
+    "Volt horse mode": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/betterhorse.obj.mesh",
+    "Volt bullet bill": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/blackbullet2.obj.mesh",
+    "Flying escape bot carpet": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/flyingcarpetescapebot.obj.mesh",
+    "Energy Drink": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/star.obj.mesh",
+    "Sword": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/sword.obj.mesh"
   },
   "gunsounds": {
     "Damage Sound": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/HitSound2.ogg",
