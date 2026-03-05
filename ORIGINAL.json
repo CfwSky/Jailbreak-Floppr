@@ -110,7 +110,9 @@
     "Plasma Pistol": "4752401149",
     "Plasma Shotgun": "17183453324",
     "Forcefield launcher land": "4058366615",
-    "Forcefield launcher LAUNCH": "1665290210"
+    "Forcefield launcher LAUNCH": "1665290210",
+    "Sword swing": "3772601178",
+    "Sword dash": "3772602113"
   },
   "Consumable sounds": {
     "Energy Drink": "7209853095"
