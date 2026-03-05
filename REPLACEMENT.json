@@ -95,7 +95,9 @@
     "Bank and Helicopter explosion": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/JSR.ogg",
     "Nitro": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/RocketLaunch.ogg",
     "Plasma Pistol": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/plasmapistol.ogg",
-    "Plasma Shotgun": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/PlasmaShotgun.ogg"
+    "Plasma Shotgun": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/PlasmaShotgun.ogg",
+    "Sword swing": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/sweep.mp3",
+    "Sword dash": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/critical.mp3"
   },
   "carsounds": {
     "Orion Low": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/main/assets/sounds/carsounds/9efee89ce18cbb4e88999a4d8237862e.ogg",
