@@ -17,6 +17,9 @@
         "Taser image": "880310770",
         "Uzi image": "16647920802"
       },
+      "Gun Textures": {
+        "Plasma Pistol Diamond": "16629290931"
+      },
       "Consumables": {
         "Donut image": "871077212",
         "Glider image": "679785902",
@@ -86,7 +89,10 @@
     "volt bike wheel (REMOVE)": "7008669637",
     "Energy Drink": "7192642800",
     "Sword": "3455816515",
-    "Sword handle (REMOVE)": "3455816980"
+    "Sword handle (REMOVE)": "3455816980",
+     "Plasma Body": "16605378980",
+    "Plasma handle": "16605379362",
+    "Plasma glow": "16605379190"
   },
   "mesh textures": {
     "Energy Drink Texture (REMOVE)": "7192642954"
