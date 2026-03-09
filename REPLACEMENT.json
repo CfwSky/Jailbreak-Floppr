@@ -31,7 +31,10 @@
         "Road Spikes RB&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/TireSpikes.png",
         "Uzi B&W": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Uzi.png"
       },
-      "Consumables": {
+      "Gun Textures": {
+        "Plasma Pistol Diamond (Raygun)": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/Images/RayGunBright.png"
+      },
+       "Consumables": {
         "C4": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/C4.png",
         "Glider": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Glider.png",
         "Donut": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/decals/JBGuns/Black/Donut.png",
@@ -77,7 +80,8 @@
     "Volt bullet bill": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/blackbullet2.obj.mesh",
     "Flying escape bot carpet": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/flyingcarpetescapebot.obj.mesh",
     "Energy Drink": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/star.obj.mesh",
-    "Sword": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/sword.obj.mesh"
+    "Sword": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/sword.obj.mesh",
+    "Raygun": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/mesh/raygun2.obj.mesh"
   },
   "gunsounds": {
     "Damage Sound": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/HitSound2.ogg",
@@ -95,6 +99,7 @@
     "Bank and Helicopter explosion": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/JSR.ogg",
     "Nitro": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/RocketLaunch.ogg",
     "Plasma Pistol": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/plasmapistol.ogg",
+    "Plasma Pistol (Raygun)": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/raygun.mp3",
     "Plasma Shotgun": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/gunsounds/PlasmaShotgun.ogg",
     "Sword swing": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/sweep.mp3",
     "Sword dash": "https://raw.githubusercontent.com/CfwSky/Jailbreak-Floppr/main/sounds/critical.mp3"
